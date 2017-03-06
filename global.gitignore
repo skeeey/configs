@@ -1,0 +1,12 @@
+.DS_Store
+.vscode
+.classpath
+.project
+.settings
+target
+typings
+node_modules
+bower_components
+build
+PhantomJS_*
+Chrome_*
