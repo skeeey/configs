@@ -1,0 +1,10 @@
+[
+    { "key": "cmd+d",   "command": "editor.action.deleteLines",
+                        "when": "editorTextFocus" },
+    { "key": "shift+cmd+k",     "command": "editor.action.addSelectionToNextFindMatch",
+                        "when": "editorFocus" },
+    { "key": "shift+cmd+o",     "command": "workbench.action.files.openFileFolder" },
+    { "key": "cmd+o",   "command": "workbench.action.gotoSymbol" },
+    { "key": "alt+/",   "command": "editor.action.triggerSuggest",
+                        "when": "editorHasCompletionItemProvider && editorTextFocus && !editorReadonly"  }
+]

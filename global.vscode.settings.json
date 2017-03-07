@@ -1,0 +1,16 @@
+{
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "files.exclude": {
+        ".vscode": true,
+        "**/target": true,
+        "**/.settings": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/Chrome_*": true,
+        "**/PhantomJS_*": true,
+        "**/typings": true,
+        "**/.jazzignore": true
+    },
+    "search.exclude": {}
+}
