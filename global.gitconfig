@@ -1,0 +1,13 @@
+[user]
+	name = skeeey
+	email = skeeey.liu@gmail.com
+[core]
+	excludesfile = C:\\Users\\skeeey\\.gitignore
+	safecrlf = true
+	autocrlf = false
+[credential]
+	helper = store
+[http]
+    proxy =
+[https]
+    proxy =
