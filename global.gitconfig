@@ -7,7 +7,3 @@
 	autocrlf = false
 [credential]
 	helper = store
-[http]
-    proxy =
-[https]
-    proxy =
