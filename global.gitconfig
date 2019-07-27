@@ -7,3 +7,4 @@
 	autocrlf = false
 [credential]
 	helper = store
+
