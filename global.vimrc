@@ -83,8 +83,8 @@ set listchars=eol:$,tab:>-,trail:~,extends:>,precedes:<
 " Show file encoding, using :set fileencoding
 
 " plugin manager - pathogen
-runtime bundle/pathogen/autoload/pathogen.vim
-execute pathogen#infect()
+" runtime bundle/pathogen/autoload/pathogen.vim
+" execute pathogen#infect()
 
 " NERD tree
 " https://github.com/scrooloose/nerdtree
